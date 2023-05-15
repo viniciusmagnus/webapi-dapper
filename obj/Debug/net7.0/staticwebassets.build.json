@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IKlnFAKTzWjP5/llFwxzHj2LooYVHPbWTOT5x2eAnuo=",
+  "Source": "dotnet-dapper",
+  "BasePath": "_content/dotnet-dapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
